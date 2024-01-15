@@ -1,0 +1,58 @@
+[
+  {
+    "author_name": "Alice Walker",
+    "bio": "An American author and activist known for her powerful works, including 'The Color Purple.'",
+    "nationality": "American",
+    "dob": "02/09/1944",
+    "genre": "Fiction",
+    "awards": "Pulitzer Prize, National Book Award for Fiction"
+  },
+  {
+    "author_name": "Gabriel Garcia Marquez",
+    "bio": "A Colombian novelist and Nobel Prize winner known for his magical realism, including 'One Hundred Years of Solitude.'",
+    "nationality": "Colombian",
+    "dob": "03/06/1927",
+    "genre": "Magical Realism",
+    "awards": "Nobel Prize in Literature"
+  },
+  {
+    "author_name": "Michael Chabon",
+    "bio": "An American author known for his diverse works, including 'The Amazing Adventures of Kavalier & Clay.'",
+    "nationality": "American",
+    "dob": "24/05/1963",
+    "genre": "Fiction",
+    "awards": "Pulitzer Prize for Fiction"
+  },
+  {
+    "author_name": "Kazuo Ishiguro",
+    "bio": "A British author known for his novels that explore themes of memory, time, and self-discovery.",
+    "nationality": "British",
+    "dob": "11/08/1954",
+    "genre": "Science Fiction, Fantasy",
+    "awards": "Nobel Prize in Literature"
+  },
+  {
+    "author_name": "Colson Whitehead",
+    "bio": "An American author known for his novels addressing issues of race, injustice, and history.",
+    "nationality": "American",
+    "dob": "06/11/1969",
+    "genre": "Historical Fiction",
+    "awards": "Pulitzer Prize for Fiction"
+  },
+  {
+    "author_name": "Colleen Hoover",
+    "bio": "An American author of contemporary romance and young adult fiction.",
+    "nationality": "American",
+    "dob": "11/12/1979",
+    "genre": "Romance",
+    "awards": "Goodreads Choice Award for Romance"
+  },
+  {
+    "author_name": "Paulo Coelho",
+    "bio": "A Brazilian lyricist and novelist known for his philosophical works, including 'The Alchemist.'",
+    "nationality": "Brazilian",
+    "dob": "24/08/1947",
+    "genre": "Philosophical Fiction",
+    "awards": "Guinness World Record for the most translated book by a living author"
+  }
+]

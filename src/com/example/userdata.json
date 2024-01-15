@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "admin@admin",
+    "fullName": "Librarian Admin",
+    "email": "admin@gmail.com",
+    "birthDate": "01/01/1980"
+  },
+  {
+    "id": "2",
+    "username": "johndoe",
+    "password": "john@john",
+    "fullName": "John Doe",
+    "email": "john.doe@gmail.com",
+    "birthDate": "15/05/1990"
+  },
+  {
+    "id": "3",
+    "username": "janesmith",
+    "password": "jane@jane",
+    "fullName": "Jane Smith",
+    "email": "jane.smith@yahoo.co.in",
+    "birthDate": "22/09/1985"
+  },
+  {
+    "id": "4",
+    "username": "bobjohnson",
+    "password": "bob@bob",
+    "fullName": "Bob Johnson",
+    "email": "bob.johnson@gmail.com",
+    "birthDate": "10/03/1978"
+  },
+  {
+    "id": "5",
+    "username": "alicebrown",
+    "password": "alice@alice",
+    "fullName": "Alice Brown",
+    "email": "alice.brown@yahoo.co.in",
+    "birthDate": "05/12/1992"
+  }
+]
